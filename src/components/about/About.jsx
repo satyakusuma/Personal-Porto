@@ -10,7 +10,7 @@ const About = () => {
     AOS.refresh();
   }, [location]);
   return (
-    <Container>
+    <Container id="about">
       <div className="bg-primary p-4 rounded" data-aos="fade-up">
         <h1 className="text-center text-white">ABOUT ME</h1>
         <p className="text-center text-white mr-5 ml-5 mx-5">

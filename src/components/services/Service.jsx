@@ -6,8 +6,8 @@ import TesImg from "../../assets/images 1.png";
 
 const Service = () => {
   return (
-    <Container>
-      <div className="p-4" data-aos="fade-up">
+    <Container id="service">
+      <div className="p-4 bg-white" data-aos="fade-up">
         <h1 className="text-center">SERVICES</h1>
         <Row className="mt-4 justify-content-center">
           <Col xs={12} md={4} className="d-flex justify-content-center mb-4">

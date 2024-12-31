@@ -16,6 +16,7 @@ const Content = () => {
       fluid
       className="bg-light vh-100 d-flex align-items-center "
       data-aos="fade-up"
+      id="home"
     >
       <Row className="w-100">
         <Col
