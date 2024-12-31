@@ -3,7 +3,7 @@ import { Col, Container, Row } from "react-bootstrap";
 import ReactImg from "../../assets/react 1.png";
 import PythonImg from "../../assets/python 1.png";
 import BootImg from "../../assets/Bootstrap 1.png";
-import MySqlImg from "../../assets/mySql 1.png";
+import MySqlImg from "../../assets/mysql 1.png";
 import JSImg from "../../assets/JS 1.png";
 
 const Skill = () => {
