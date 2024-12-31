@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import SIMSImg from "../../assets/sims 2.png";
+import SIMSImg from "../../assets/SIMS 2.png";
 
 const Project = () => {
   return (
