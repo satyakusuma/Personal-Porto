@@ -1,6 +1,8 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import SIMSImg from "../../assets/SIMS 2.png";
+import PORTOImg from "../../assets/porto.png";
+import PROJECTImg from "../../assets/project.png";
 
 const ProjectCard = ({ img, title, text }) => (
   <Col xs={12} md={4} className="d-flex justify-content-center mb-4">
@@ -31,12 +33,12 @@ const Project = () => {
             text="A web application for selling digital products, built with React.js and Redux."
           />
           <ProjectCard
-            img={SIMSImg}
-            title="E-commerce Platform"
-            text="A full-featured e-commerce site with RESTful API integration."
+            img={PROJECTImg}
+            title="E-LIbrary Platform"
+            text="A full-featured library web platform integrated with power BI and other analytics with JS, and RESTful API integration."
           />
           <ProjectCard
-            img={SIMSImg}
+            img={PORTOImg}
             title="Portfolio Website"
             text="A personal portfolio to showcase skills and projects, built with React and Bootstrap."
           />
