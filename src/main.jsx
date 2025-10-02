@@ -6,6 +6,7 @@ import router from './routers/router.jsx'
 import 'bootstrap-icons/font/bootstrap-icons.css'
 import 'aos/dist/aos.css';
 import AOS from 'aos';
+import './index.css'
 
 AOS.init({
   duration: 1000,
